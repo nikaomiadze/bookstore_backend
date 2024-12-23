@@ -1,0 +1,42 @@
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\appsettings.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\BookStore backend.exe
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\BookStore backend.deps.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\BookStore backend.runtimeconfig.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\BookStore backend.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\BookStore backend.pdb
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.csproj.AssemblyReference.cache
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.AssemblyInfoInputs.cache
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.AssemblyInfo.cs
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.csproj.CoreCompileInputs.cache
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets\msbuild.BookStore backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStore backend.props
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStore backend.props
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStore backend.props
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\scopedcss\bundle\BookStore backend.styles.css
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStor.C6EE7747.Up2Date
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\refint\BookStore backend.dll
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.pdb
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\BookStore backend.genruntimeconfig.cache
+C:\Users\nikoloz.omiadze\Desktop\BookStore backend\BookStore backend\obj\Debug\net8.0\ref\BookStore backend.dll
