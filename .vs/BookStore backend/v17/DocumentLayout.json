@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikao\\Desktop\\projects\\bookstore_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1D5B7-606E-4245-BDB4-80B36F44513C}|BookStore backend\\BookStore backend.csproj|c:\\users\\nikao\\desktop\\projects\\bookstore_backend\\bookstore backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAD1D5B7-606E-4245-BDB4-80B36F44513C}|BookStore backend\\BookStore backend.csproj|solutionrelative:bookstore backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\nikao\\Desktop\\projects\\bookstore_backend\\BookStore backend\\Dockerfile",
+              "RelativeDocumentMoniker": "BookStore backend\\Dockerfile",
+              "ToolTip": "C:\\Users\\nikao\\Desktop\\projects\\bookstore_backend\\BookStore backend\\Dockerfile",
+              "RelativeToolTip": "BookStore backend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T18:47:08.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
